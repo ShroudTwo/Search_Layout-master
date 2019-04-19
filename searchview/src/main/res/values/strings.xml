@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SearchView</string>
+    <string name="clear">清除搜索历史</string>
+    <string name="todo">TODO</string>
+</resources>
